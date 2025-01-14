@@ -72,39 +72,17 @@
 
 ---
 
-<h2 style="font-family: 'Arial', sans-serif; color: #FF5733; font-size: 2.5em; text-align: center; 
-           animation: fadeIn 2s ease-in-out;">🎯 Featured Projects</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF5733; font-size: 2.5em; text-align: center;">
+  🎯 Featured Projects
+</h2>
 
 <ul style="list-style-type: none; padding: 0; text-align: center; font-family: 'Arial', sans-serif; font-size: 1.25em;">
-  <li style="margin: 20px; animation: slideUp 2s ease-out;">
-    🔗 <a href="https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-" target="_blank" 
-           style="color: #FF5733; text-decoration: none; font-weight: bold;">Colorful Spiral</a> 🎨 - 
-    Interactive Python Turtle Graphics with stunning visuals and music.
+  <li style="margin: 20px;">
+    🔗 <a href="https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-" target="_blank" style="color: #FF5733; text-decoration: none; font-weight: bold;">
+      Colorful Spiral
+    </a> 🎨 - Interactive Python Turtle Graphics with stunning visuals and music.
   </li>
 </ul>
-
-<style>
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
-
-  @keyframes slideUp {
-    0% {
-      transform: translateY(30px);
-      opacity: 0;
-    }
-    100% {
-      transform: translateY(0);
-      opacity: 1;
-    }
-  }
-</style>
-
 
 ---
 
@@ -180,3 +158,5 @@
 ---
 
 <h1 align="center">🌟 Join C7 – Where Ideas Turn Into Reality! 🌟</h1>
+</body>
+</html>
