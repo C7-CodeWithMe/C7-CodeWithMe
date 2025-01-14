@@ -29,8 +29,7 @@
 ---
 
 <h2>🎯 Featured Projects</h2>
-<ul>
- <img src="[https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical](https://github.com/C7-CodeWithMe/C7-CodeWithMe)" alt="GitHub Stats">
+<ul> <li>🔗 <a href="https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-" target="_blank">Colorful Spiral</a> 🎨 - Interactive Python Turtle Graphics with stunning visuals and music.</li>
 </ul>
 
 ---
