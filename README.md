@@ -45,19 +45,37 @@
   <a href="https://wa.me/message/V33NEXMUPK3CJ1" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Link">
   </a>
-  <a href="mailto:email@example.com" target="_blank" style="text-decoration: none;">
+  <a href="mailto:code2with2me@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Link">
+  </a>
+  <a href="https://web.facebook.com/people/C7/61566373615325/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Link">
   </a>
 </p>
 
 
+
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=C7-CodeWithMe&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px; border-radius: 10px;">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C7-CodeWithMe&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px; border-radius: 10px;">
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=C7-CodeWithMe&theme=radical" alt="GitHub Streak Stats" style="margin: 10px; border-radius: 10px;">
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <a href="https://github.com/C7-CodeWithMe" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
 </p>
+
 
 ---
 
