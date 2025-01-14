@@ -30,9 +30,7 @@
 
 <h2>🎯 Featured Projects</h2>
 <ul>
-  <li>🔗 <a href="https://github.com/username/colorful-spiral" target="_blank">Colorful Spiral</a> 🎨 - Interactive Python Turtle Graphics with stunning visuals and music.</li>
-  <li>🔗 <a href="https://github.com/username/eye-disease-detection" target="_blank">Eye Disease Detection</a> 🩺 - AI-powered system for diagnosing common eye diseases in real-time.</li>
-  <li>🔗 <a href="https://github.com/username/face-recognition-attendance" target="_blank">Face Recognition Attendance System</a> 📊 - A smart, real-time attendance tracker with unauthorized access alerts.</li>
+  <li>🔗 <a href="[https://github.com/username/colorful-spiral](https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-)" target="_blank">Colorful Spiral</a> 🎨 - Interactive Python Turtle Graphics with stunning visuals and music.</li>
 </ul>
 
 ---
