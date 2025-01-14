@@ -96,41 +96,53 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=C7-CodeWithMe&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 20px; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 4px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=C7-CodeWithMe&theme=radical" alt="GitHub Streak Stats" style="margin: 20px; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 4px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C7-CodeWithMe&layout=compact&theme=radical" alt="Top Languages" style="margin: 20px; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 4px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-</div>
-
-<p align="center">
-  <a href="https://github.com/C7-CodeWithMe" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="transition: background-color 0.3s ease, transform 0.3s ease; border-radius: 5px; margin-top: 20px;" onmouseover="this.style.backgroundColor='#333'; this.style.transform='scale(1.1)'" onmouseout="this.style.backgroundColor='#12100E'; this.style.transform='scale(1)'">
-  </a>
-</p>
-
-<!-- Optional: Loading spinner -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif" alt="Loading" width="50" height="50">
-</div>
-
-
-
-
----
-
 <h2>🎉 Fun Facts</h2>
 <ul>
   <li>🌟 We love breaking down tech barriers for everyone!</li>
   <li>🎨 Creativity and problem-solving are at the heart of what we do.</li>
   <li>🌍 Together, we can shape the future of technology!</li>
 </ul>
+
+---
+
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<div align="center">
+
+  <!-- GitHub Stats Image -->
+  <img src="https://github-readme-stats.vercel.app/api?username=C7-CodeWithMe&show_icons=true&theme=radical" 
+       alt="GitHub Stats" 
+       style="margin: 20px; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 4px 20px rgba(0,0,0,0.2)'" 
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+  
+  <!-- GitHub Streak Image -->
+  <img src="https://streak-stats.demolab.com/?user=C7-CodeWithMe&theme=radical" 
+       alt="GitHub Streak Stats" 
+       style="margin: 20px; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 4px 20px rgba(0,0,0,0.2)'" 
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+  
+  <!-- Top Languages Image -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C7-CodeWithMe&layout=compact&theme=radical" 
+       alt="Top Languages" 
+       style="margin: 20px; border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 4px 20px rgba(0,0,0,0.2)'" 
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+
+</div>
+
+<!-- Link to Explore Projects on GitHub -->
+<p align="center">
+  <a href="https://github.com/C7-CodeWithMe" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" 
+         alt="GitHub Badge" 
+         style="transition: background-color 0.3s ease, transform 0.3s ease; border-radius: 5px; margin-top: 20px;" 
+         onmouseover="this.style.backgroundColor='#333'; this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.backgroundColor='#12100E'; this.style.transform='scale(1)'">
+  </a>
+</p>
+
 
 ---
 
