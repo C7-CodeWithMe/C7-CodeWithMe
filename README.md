@@ -1,8 +1,53 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://z-p3-scontent.fcmb7-1.fna.fbcdn.net/v/t39.30808-6/462512560_122109519380545787_3067920757972914820_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF_Z34JNksGCdnbBNOMkDWKKCAkLlB_1okoICQuUH_WiUjFNUIyK06YaHhKsy8qygesnBrpsGOoN_zUadgbAXbr&_nc_ohc=ckvvDik76X4Q7kNvgEx9fCd&_nc_zt=23&_nc_ht=z-p3-scontent.fcmb7-1.fna&_nc_gid=A5dg8ydgByP6cMyW-exAdgM&oh=00_AYC8QC8MVMXwOM1Px3DEZ3Ob7RaaI6bWnLse4EzjxhfYsg&oe=678BF3C2" alt="C7 Banner" width="100%" />
+</p>
+
 <h1 align="center">🌟 Welcome to C7! 🚀</h1>
 
 <p align="center">
   At <strong>C7</strong>, we believe in the power of <strong>technology, coding, and innovation</strong> to transform ideas into reality. 
   Whether you're a seasoned developer or a curious beginner, we’re here to inspire, educate, and create!
+</p>
+
+---
+
+<h2 align="center">💻 Things I Code With</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Jupyter-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/ESP32_CAM-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="ESP32 CAM">
+  <img src="https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="YOLO">
+  <img src="https://img.shields.io/badge/SSD-000000?style=for-the-badge&logo=nvidia&logoColor=white" alt="SSD">
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data Analytics">
+  <img src="https://img.shields.io/badge/Object%20Detection-007396?style=for-the-badge&logo=java&logoColor=white" alt="Object Detection">
+  <img src="https://img.shields.io/badge/Image%20Processing-000000?style=for-the-badge&logo=opencv&logoColor=white" alt="Image Processing">
 </p>
 
 ---
@@ -52,8 +97,6 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Link">
   </a>
 </p>
-
-
 
 ---
 
