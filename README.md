@@ -36,8 +36,11 @@
 
 <h2>🌐 Connect with Us</h2>
 <ul>
-  <li>🎥 <a href="https://youtube.com/c/C7Channel" target="_blank"><strong>YouTube</strong></a> - Tutorials, challenges, and more!</li>
-  <li>💻 <a href="https://github.com/C7" target="_blank"><strong>GitHub</strong></a> - Explore our projects.</li>
+  <li>🎥 <a href="https://www.youtube.com/channel/UCtgTRDzqbaRtpyNzy1fu1vA" target="_blank"><strong>YouTube</strong></a> - Tutorials, challenges, and more!</li>
+  <li>💻 <a href="https://github.com/C7-CodeWithMe" target="_blank"><strong>GitHub</strong></a> - Explore our projects.</li>
+  <li><a href="https://wa.me/message/V33NEXMUPK3CJ1" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Link">
+  </a></li>
   <li>📩 For inquiries or collaboration: <a href="mailto:email@example.com">email@example.com</a></li>
 </ul>
 
