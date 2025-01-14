@@ -1,7 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://z-p3-scontent.fcmb7-1.fna.fbcdn.net/v/t39.30808-6/462512560_122109519380545787_3067920757972914820_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF_Z34JNksGCdnbBNOMkDWKKCAkLlB_1okoICQuUH_WiUjFNUIyK06YaHhKsy8qygesnBrpsGOoN_zUadgbAXbr&_nc_ohc=ckvvDik76X4Q7kNvgEx9fCd&_nc_zt=23&_nc_ht=z-p3-scontent.fcmb7-1.fna&_nc_gid=A5dg8ydgByP6cMyW-exAdgM&oh=00_AYC8QC8MVMXwOM1Px3DEZ3Ob7RaaI6bWnLse4EzjxhfYsg&oe=678BF3C2" alt="C7 Banner" width="100%" />
-</p>
 
 <h1 align="center">🌟 Welcome to C7! 🚀</h1>
 
