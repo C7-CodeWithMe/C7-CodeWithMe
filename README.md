@@ -100,20 +100,21 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=C7-CodeWithMe&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=C7-CodeWithMe&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px; border-radius: 10px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C7-CodeWithMe&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C7-CodeWithMe&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px; border-radius: 10px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=C7-CodeWithMe&theme=radical" alt="GitHub Streak Stats" style="margin: 10px; border-radius: 10px;">
+  <img src="https://streak-stats.demolab.com/?user=C7-CodeWithMe&theme=radical" alt="GitHub Streak Stats" style="margin: 10px; border-radius: 10px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 </div>
 
 <p align="center">
   <a href="https://github.com/C7-CodeWithMe" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="transition: background-color 0.3s ease;" onmouseover="this.style.backgroundColor='#333'" onmouseout="this.style.backgroundColor='#12100E'">
   </a>
 </p>
+
 
 
 ---
