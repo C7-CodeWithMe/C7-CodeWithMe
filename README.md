@@ -1,13 +1,15 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #FF5733; font-size: 3em; text-shadow: 2px 2px 5px rgba(0,0,0,0.2); 
-                         animation: fadeIn 2s ease-in-out;">
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #FF5733; font-size: 3.5em; font-weight: bold; text-align: center; 
+                         text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); animation: fadeIn 2s ease-in-out;">
   🌟 Welcome to C7! 🚀
 </h1>
 
-<p align="center" style="font-family: 'Arial', sans-serif; color: #333; font-size: 1.25em; line-height: 1.6; max-width: 800px; 
-                         margin: 20px auto; text-align: center; animation: slideUp 2s ease-out;">
-  At <strong style="color: #FF5733;">C7</strong>, we believe in the power of <strong style="color: #FF5733;">technology, coding, and innovation</strong> 
-  to transform ideas into reality. Whether you're a seasoned developer or a curious beginner, we’re here to inspire, educate, and create!
+<p align="center" style="font-family: 'Arial', sans-serif; color: #333; font-size: 1.4em; line-height: 1.8; max-width: 900px; 
+                         margin: 30px auto; text-align: center; animation: slideUp 2s ease-out;">
+  At <strong style="color: #FF5733; font-weight: bold;">C7</strong>, we believe in the power of <strong style="color: #FF5733; 
+  font-weight: bold;">technology, coding, and innovation</strong> to transform ideas into reality. Whether you're a seasoned developer 
+  or a curious beginner, we’re here to inspire, educate, and create! Let’s build the future, together! 💡🚀
 </p>
+
 
 ---
 
