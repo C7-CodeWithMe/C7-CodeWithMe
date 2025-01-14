@@ -1,9 +1,12 @@
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #FF5733; font-size: 3em; text-shadow: 2px 2px 5px rgba(0,0,0,0.2); 
+                         animation: fadeIn 2s ease-in-out;">
+  🌟 Welcome to C7! 🚀
+</h1>
 
-<h1 align="center">🌟 Welcome to C7! 🚀</h1>
-
-<p align="center">
-  At <strong>C7</strong>, we believe in the power of <strong>technology, coding, and innovation</strong> to transform ideas into reality. 
-  Whether you're a seasoned developer or a curious beginner, we’re here to inspire, educate, and create!
+<p align="center" style="font-family: 'Arial', sans-serif; color: #333; font-size: 1.25em; line-height: 1.6; max-width: 800px; 
+                         margin: 20px auto; text-align: center; animation: slideUp 2s ease-out;">
+  At <strong style="color: #FF5733;">C7</strong>, we believe in the power of <strong style="color: #FF5733;">technology, coding, and innovation</strong> 
+  to transform ideas into reality. Whether you're a seasoned developer or a curious beginner, we’re here to inspire, educate, and create!
 </p>
 
 ---
@@ -69,9 +72,39 @@
 
 ---
 
-<h2>🎯 Featured Projects</h2>
-<ul> <li>🔗 <a href="https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-" target="_blank">Colorful Spiral</a> 🎨 - Interactive Python Turtle Graphics with stunning visuals and music.</li>
+<h2 style="font-family: 'Arial', sans-serif; color: #FF5733; font-size: 2.5em; text-align: center; 
+           animation: fadeIn 2s ease-in-out;">🎯 Featured Projects</h2>
+
+<ul style="list-style-type: none; padding: 0; text-align: center; font-family: 'Arial', sans-serif; font-size: 1.25em;">
+  <li style="margin: 20px; animation: slideUp 2s ease-out;">
+    🔗 <a href="https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-" target="_blank" 
+           style="color: #FF5733; text-decoration: none; font-weight: bold;">Colorful Spiral</a> 🎨 - 
+    Interactive Python Turtle Graphics with stunning visuals and music.
+  </li>
 </ul>
+
+<style>
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideUp {
+    0% {
+      transform: translateY(30px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+</style>
+
 
 ---
 
