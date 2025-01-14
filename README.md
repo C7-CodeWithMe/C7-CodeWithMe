@@ -51,14 +51,25 @@
 
 ---
 
-<h2>💡 About Us</h2>
-<ul>
-  <li>Simplify complex concepts with <strong>easy-to-follow tutorials</strong> 📚</li>
-  <li>Spark creativity through <strong>coding challenges</strong> 💻</li>
-  <li>Explore the <strong>latest tech trends</strong> 🌐</li>
-  <li>Showcase inspiring <strong>projects</strong> 🚀</li>
-</ul>
-<p>Let’s build a community that celebrates innovation and empowers everyone to achieve their tech dreams.</p>
+<h2 style="font-family: 'Arial', sans-serif; color: #4CAF50; font-size: 2.5em; font-weight: bold; margin-bottom: 30px; text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);">
+  💡 About Us
+</h2>
+
+<div style="border: 2px solid #4CAF50; border-radius: 15px; padding: 40px; background-color: #e8f5e9; box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1); max-width: 800px; margin: 0 auto;">
+  <ul style="font-size: 1.3em; line-height: 1.8; margin: 25px 0; color: #333; list-style-type: none; padding: 0;">
+    <li>💡 Simplify complex concepts with <strong>easy-to-follow tutorials</strong> 📚</li>
+    <li>💡 Spark creativity through <strong>coding challenges</strong> 💻</li>
+    <li>💡 Explore the <strong>latest tech trends</strong> 🌐</li>
+    <li>💡 Showcase inspiring <strong>projects</strong> 🚀</li>
+  </ul>
+
+  <p style="font-size: 1.2em; color: #333; font-family: 'Arial', sans-serif; line-height: 1.8; margin-top: 30px; font-weight: bold;">
+    Let’s build a community that celebrates innovation and empowers everyone to achieve their tech dreams.
+  </p>
+</div>
+
+
+
 
 ---
 
@@ -72,18 +83,21 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF5733; font-size: 2.5em; text-align: center; font-weight: bold; margin-bottom: 20px; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);">
+<h2 style="font-family: 'Arial', sans-serif; color: #FF5733; font-size: 2.5em; text-align: center; font-weight: bold; margin-bottom: 20px; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);">
   🎯 Featured Projects
 </h2>
 
-<ul style="list-style-type: none; padding: 0; text-align: center; font-family: 'Arial', sans-serif; font-size: 1.25em; line-height: 1.6;">
-  <li style="margin: 20px; transition: transform 0.3s ease-in-out;">
-    🔗 
-    <a href="https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-" target="_blank" style="color: #FF5733; text-decoration: none; font-weight: bold; transition: color 0.3s ease-in-out;">
-      Colorful Spiral
-    </a> 🎨 - Interactive Python Turtle Graphics with stunning visuals and music.
-  </li>
-</ul>
+<div style="border: 2px solid #FF5733; border-radius: 10px; padding: 20px; background-color: #fff3e6; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); max-width: 800px; margin: 0 auto;">
+  <ul style="list-style-type: none; padding: 0; text-align: center; font-family: 'Arial', sans-serif; font-size: 1.25em; line-height: 1.6;">
+    <li style="margin: 20px; transition: transform 0.3s ease-in-out;">
+      🔗 
+      <a href="https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-" target="_blank" style="color: #FF5733; text-decoration: none; font-weight: bold; transition: color 0.3s ease-in-out;">
+        Colorful Spiral
+      </a> 🎨 - Interactive Python Turtle Graphics with stunning visuals and music.
+    </li>
+  </ul>
+</div>
+
 
 ---
 
