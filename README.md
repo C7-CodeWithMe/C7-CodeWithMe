@@ -72,13 +72,14 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF5733; font-size: 2.5em; text-align: center;">
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF5733; font-size: 2.5em; text-align: center; font-weight: bold; margin-bottom: 20px; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);">
   🎯 Featured Projects
 </h2>
 
-<ul style="list-style-type: none; padding: 0; text-align: center; font-family: 'Arial', sans-serif; font-size: 1.25em;">
-  <li style="margin: 20px;">
-    🔗 <a href="https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-" target="_blank" style="color: #FF5733; text-decoration: none; font-weight: bold;">
+<ul style="list-style-type: none; padding: 0; text-align: center; font-family: 'Arial', sans-serif; font-size: 1.25em; line-height: 1.6;">
+  <li style="margin: 20px; transition: transform 0.3s ease-in-out;">
+    🔗 
+    <a href="https://github.com/C7-CodeWithMe/Colorful-Spiral-Script-" target="_blank" style="color: #FF5733; text-decoration: none; font-weight: bold; transition: color 0.3s ease-in-out;">
       Colorful Spiral
     </a> 🎨 - Interactive Python Turtle Graphics with stunning visuals and music.
   </li>
