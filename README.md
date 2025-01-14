@@ -35,14 +35,21 @@
 ---
 
 <h2>🌐 Connect with Us</h2>
-<ul>
-  <li>🎥 <a href="https://www.youtube.com/channel/UCtgTRDzqbaRtpyNzy1fu1vA" target="_blank"><strong>YouTube</strong></a> - Tutorials, challenges, and more!</li>
-  <li>💻 <a href="https://github.com/C7-CodeWithMe" target="_blank"><strong>GitHub</strong></a> - Explore our projects.</li>
-  <li><a href="https://wa.me/message/V33NEXMUPK3CJ1" target="_blank" style="text-decoration: none;">
+<p>
+  <a href="https://www.youtube.com/channel/UCtgTRDzqbaRtpyNzy1fu1vA" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Link">
+  </a>
+  <a href="https://github.com/C7-CodeWithMe" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link">
+  </a>
+  <a href="https://wa.me/message/V33NEXMUPK3CJ1" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Link">
-  </a></li>
-  <li>📩 For inquiries or collaboration: <a href="mailto:email@example.com">email@example.com</a></li>
-</ul>
+  </a>
+  <a href="mailto:email@example.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Link">
+  </a>
+</p>
+
 
 ---
 
